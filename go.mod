@@ -34,7 +34,7 @@ require (
 	github.com/jinzhu/gorm v1.9.16
 	github.com/jpillora/backoff v0.0.0-20170918002102-8eab2debe79d // indirect
 	github.com/meatballhat/negroni-logrus v0.0.0-20170801195057-31067281800f
-	github.com/newrelic/go-agent v2.1.0+incompatible
+	github.com/newrelic/go-agent v2.16.3+incompatible
 	github.com/onsi/ginkgo v1.8.0 // indirect
 	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/opentracing/opentracing-go v1.1.0 // indirect
