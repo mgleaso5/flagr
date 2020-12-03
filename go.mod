@@ -21,13 +21,13 @@ require (
 	github.com/evalphobia/logrus_sentry v0.4.6
 	github.com/getsentry/raven-go v0.0.0-20180903072508-084a9de9eb03
 	github.com/go-ini/ini v1.38.2 // indirect
-	github.com/go-openapi/errors v0.19.6
-	github.com/go-openapi/loads v0.19.5
+	github.com/go-openapi/errors v0.19.7
+	github.com/go-openapi/loads v0.19.7
 	github.com/go-openapi/runtime v0.19.19
 	github.com/go-openapi/spec v0.19.8
 	github.com/go-openapi/strfmt v0.19.5
 	github.com/go-openapi/swag v0.19.9
-	github.com/go-openapi/validate v0.19.10
+	github.com/go-openapi/validate v0.19.12
 	github.com/gohttp/pprof v0.0.0-20141119085724-c9d246cbb3ba
 	github.com/gorilla/mux v1.7.1 // indirect
 	github.com/jessevdk/go-flags v1.4.0
