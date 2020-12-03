@@ -42,7 +42,6 @@ require (
 	github.com/phyber/negroni-gzip v0.0.0-20180113114010-ef6356a5d029
 	github.com/prashantv/gostub v0.0.0-20170112001514-5c68b99bb088
 	github.com/prometheus/client_golang v0.9.3-0.20190127221311-3c4408c8b829
-	github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90 // indirect
 	github.com/prometheus/procfs v0.0.0-20190219184716-e4d4a2206da0 // indirect
 	github.com/rs/cors v1.5.0
 	github.com/sirupsen/logrus v1.4.2
@@ -57,7 +56,7 @@ require (
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
 	golang.org/x/text v0.3.3 // indirect
 	google.golang.org/api v0.3.1
-	google.golang.org/grpc v1.19.0
+	google.golang.org/grpc v1.34.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.9.0
 	gopkg.in/ini.v1 v1.42.0 // indirect
 )
