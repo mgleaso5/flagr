@@ -47,7 +47,7 @@ require (
 	github.com/rs/cors v1.5.0
 	github.com/sirupsen/logrus v1.4.2
 	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a // indirect
-	github.com/spf13/cast v1.3.0
+	github.com/spf13/cast v1.3.1
 	github.com/stretchr/testify v1.6.1
 	github.com/tinylib/msgp v1.1.0 // indirect
 	github.com/urfave/negroni v0.3.0
